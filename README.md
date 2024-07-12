@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sasukeuwu
-- 👀 I’m interested in ... bioinformatics , gene manupilation , umbrella corp , ai tools
+- 👀 I’m interested in ... bioinformatics , gene manupilation , umbrella corp , ai tools ,ML Data Managment
 - 🌱 I’m currently learning ... biotechnology , bioinformatics (pyhton and tolls) , soon enough r and other stuff too
   
 - 💞️ I’m looking to collaborate on ... bioinformatics projects , ai , python ,webdev projects
